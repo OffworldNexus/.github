@@ -1,25 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
   <title id="title">Offworld Nexus</title>
-  <desc id="desc">A geometric eagle-owl with glowing amber eyes against a setting sun, on night blue.</desc>
-  <rect width="1024" height="1024" fill="#10141c"/>
-  <circle cx="512" cy="430" r="330" fill="#c8481f"/>
-  <path fill="#5a3820" d="M150 1024 L250 740 L512 660 L774 740 L874 1024 Z"/>
-  <path fill="#3b2415" d="M150 1024 L250 740 L360 706 L330 1024 Z M874 1024 L774 740 L664 706 L694 1024 Z"/>
-  <path fill="#c79458" d="M392 1024 L420 720 L512 690 L604 720 L632 1024 Z"/>
-  <path fill="#3b2415" d="M512 760 L470 790 L470 806 L512 780 L554 806 L554 790 Z M512 850 L462 884 L462 900 L512 870 L562 900 L562 884 Z M512 940 L456 978 L456 994 L512 960 L568 994 L568 978 Z"/>
-  <path fill="#4a2e1b" d="M220 100 L400 262 L624 262 L804 100 L774 340 C800 450 776 570 700 640 L512 724 L324 640 C248 570 224 450 250 340 Z"/>
-  <path fill="#b97e45" d="M512 318 L690 350 C742 380 752 440 744 500 C730 590 640 660 512 690 C384 660 294 590 280 500 C272 440 282 380 334 350 Z"/>
-  <circle cx="408" cy="468" r="92" fill="#0d0a09"/>
-  <circle cx="616" cy="468" r="92" fill="#0d0a09"/>
-  <circle cx="408" cy="468" r="76" fill="#e8650e"/>
-  <circle cx="616" cy="468" r="76" fill="#e8650e"/>
-  <circle cx="408" cy="468" r="60" fill="#ffaa22"/>
-  <circle cx="616" cy="468" r="60" fill="#ffaa22"/>
-  <circle cx="408" cy="474" r="24" fill="#0d0a09"/>
-  <circle cx="616" cy="474" r="24" fill="#0d0a09"/>
-  <circle cx="392" cy="458" r="8" fill="#fff3d6"/>
-  <circle cx="600" cy="458" r="8" fill="#fff3d6"/>
-  <path fill="#4a2e1b" d="M262 296 L762 296 L762 362 L512 452 L262 382 Z"/>
-  <path fill="#ead6ae" d="M276 368 L512 444 L748 368 L748 392 L512 484 L276 392 Z"/>
-  <path fill="#1e1915" d="M512 484 L546 540 L526 618 L512 632 L498 618 L478 540 Z"/>
+  <desc id="desc">A geometric Eurasian eagle-owl with glowing amber eyes before a setting sun, on night blue.</desc>
+  <rect width="1024" height="1024" fill="#0b111c"/>
+  <circle cx="512" cy="512" r="408" fill="#b14d1c"/>
+  <path fill="#3d2719" d="M90 1024 L150 760 L200 600 L260 1024 Z"/>
+  <path fill="#3d2719" transform="matrix(-1 0 0 1 1024 0)" d="M90 1024 L150 760 L200 600 L260 1024 Z"/>
+  <path fill="#cb9040" d="M520 258 L345 288 L262 330 L205 420 L170 560 L166 720 L190 1024 L520 1024 Z"/>
+  <path fill="#cb9040" transform="matrix(-1 0 0 1 1024 0)" d="M520 258 L345 288 L262 330 L205 420 L170 560 L166 720 L190 1024 L520 1024 Z"/>
+  <path fill="#9c6429" d="M282 728 C300 820 316 920 330 1024 L196 1024 C210 930 240 820 282 728 Z"/>
+  <path fill="#9c6429" transform="matrix(-1 0 0 1 1024 0)" d="M282 728 C300 820 316 920 330 1024 L196 1024 C210 930 240 820 282 728 Z"/>
+  <path fill="#05070b" d="M150 122 L352 284 L520 270 L520 790 L350 730 C260 690 212 610 212 520 C212 430 240 380 268 345 C230 300 190 230 150 122 Z"/>
+  <path fill="#05070b" transform="matrix(-1 0 0 1 1024 0)" d="M150 122 L352 284 L520 270 L520 790 L350 730 C260 690 212 610 212 520 C212 430 240 380 268 345 C230 300 190 230 150 122 Z"/>
+  <path fill="#9c6429" d="M520 300 L380 318 C300 350 246 420 246 520 C246 600 290 660 350 700 L520 760 Z"/>
+  <path fill="#9c6429" transform="matrix(-1 0 0 1 1024 0)" d="M520 300 L380 318 C300 350 246 420 246 520 C246 600 290 660 350 700 L520 760 Z"/>
+  <path fill="#e2cda0" d="M300 470 C300 418 342 398 388 400 C440 404 474 440 474 478 C474 522 436 550 388 550 C338 550 300 518 300 470 Z"/>
+  <path fill="#e2cda0" transform="matrix(-1 0 0 1 1024 0)" d="M300 470 C300 418 342 398 388 400 C440 404 474 440 474 478 C474 522 436 550 388 550 C338 550 300 518 300 470 Z"/>
+  <path fill="#05070b" d="M150 122 L346 288 L372 392 L330 410 L296 430 L276 404 L262 350 C226 290 188 220 150 122 Z"/>
+  <path fill="#05070b" transform="matrix(-1 0 0 1 1024 0)" d="M150 122 L346 288 L372 392 L330 410 L296 430 L276 404 L262 350 C226 290 188 220 150 122 Z"/>
+  <path fill="#cb9040" d="M150 122 L306 190 L314 212 L346 288 L330 300 C290 250 222 186 150 122 Z"/>
+  <path fill="#cb9040" transform="matrix(-1 0 0 1 1024 0)" d="M150 122 L306 190 L314 212 L346 288 L330 300 C290 250 222 186 150 122 Z"/>
+  <path fill="#05070b" d="M390 406 A60 60 0 1 1 389.9 406 Z"/>
+  <path fill="#05070b" transform="matrix(-1 0 0 1 1024 0)" d="M390 406 A60 60 0 1 1 389.9 406 Z"/>
+  <path fill="#ffa20f" d="M390 412 A54 54 0 1 1 389.9 412 Z"/>
+  <path fill="#ffa20f" transform="matrix(-1 0 0 1 1024 0)" d="M390 412 A54 54 0 1 1 389.9 412 Z"/>
+  <path fill="#f0700a" d="M390 412 A54 54 0 0 1 444 466 C430 446 410 436 388 436 C366 436 348 444 336 458 A54 54 0 0 1 390 412 Z"/>
+  <path fill="#f0700a" transform="matrix(-1 0 0 1 1024 0)" d="M390 412 A54 54 0 0 1 444 466 C430 446 410 436 388 436 C366 436 348 444 336 458 A54 54 0 0 1 390 412 Z"/>
+  <path fill="#05070b" d="M392 436 A32 32 0 1 1 391.9 436 Z"/>
+  <path fill="#05070b" transform="matrix(-1 0 0 1 1024 0)" d="M392 436 A32 32 0 1 1 391.9 436 Z"/>
+  <path fill="#fff3d6" d="M366 438 A9 9 0 1 1 365.9 438 Z"/>
+  <path fill="#fff3d6" transform="matrix(-1 0 0 1 1024 0)" d="M366 438 A9 9 0 1 1 365.9 438 Z"/>
+  <path fill="#05070b" d="M296 432 L338 410 L380 402 L384 410 L344 420 Z"/>
+  <path fill="#05070b" transform="matrix(-1 0 0 1 1024 0)" d="M296 432 L338 410 L380 402 L384 410 L344 420 Z"/>
+  <path fill="#e2cda0" d="M342 284 L520 470 L520 545 L482 545 L464 502 L450 456 L380 398 L372 392 Z"/>
+  <path fill="#e2cda0" transform="matrix(-1 0 0 1 1024 0)" d="M342 284 L520 470 L520 545 L482 545 L464 502 L450 456 L380 398 L372 392 Z"/>
+  <path fill="#3d2719" d="M346 290 Q430 254 520 250 L520 500 L512 506 L452 444 L400 360 Z"/>
+  <path fill="#3d2719" transform="matrix(-1 0 0 1 1024 0)" d="M346 290 Q430 254 520 250 L520 500 L512 506 L452 444 L400 360 Z"/>
+  <path fill="#b19d82" d="M520 520 L486 528 L420 556 L462 584 L500 616 L520 620 Z"/>
+  <path fill="#b19d82" transform="matrix(-1 0 0 1 1024 0)" d="M520 520 L486 528 L420 556 L462 584 L500 616 L520 620 Z"/>
+  <path fill="#f4f1ea" d="M316 630 Q392 566 482 600 L520 650 L520 716 Q420 664 316 630 Z"/>
+  <path fill="#f4f1ea" transform="matrix(-1 0 0 1 1024 0)" d="M316 630 Q392 566 482 600 L520 650 L520 716 Q420 664 316 630 Z"/>
+  <path fill="#3d2719" d="M268 692 Q384 630 520 716 L520 778 L512 778 L344 716 Z"/>
+  <path fill="#3d2719" transform="matrix(-1 0 0 1 1024 0)" d="M268 692 Q384 630 520 716 L520 778 L512 778 L344 716 Z"/>
+  <path fill="#05070b" d="M340 730 L394 760 L392 1010 Z M428 768 L478 795 L474 1010 Z"/>
+  <path fill="#05070b" transform="matrix(-1 0 0 1 1024 0)" d="M340 730 L394 760 L392 1010 Z M428 768 L478 795 L474 1010 Z"/>
+  <path fill="#05070b" d="M492 514 L512 506 L532 514 L522 600 L512 670 L502 600 Z"/>
 </svg>
